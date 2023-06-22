@@ -1,0 +1,15 @@
+- awesomeicons
+-express
+-date-fms
+-booking
+-mongodb
+-nodemon
+-dotenv
+-mongoose
+-awesome
+-bcryptjs
+-jsonwebtoken
+cookie-parser
+-axios
+-cors
+-vm-browserify
